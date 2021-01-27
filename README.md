@@ -14,4 +14,5 @@ The codes are in 3 categories:
 - Inference code to be run on G-Edge with the trained model in place
 
 The procedure for making the Arduino IDEraedy to program the ESP32 boards is as under:
+
 https://circuitdigest.com/microcontroller-projects/programming-esp32-with-arduino-ide
